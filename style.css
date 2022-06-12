@@ -1,0 +1,13 @@
+body {
+    margin-top: 70px;
+    background: #333;
+    color: white;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    border: 1px solid green;
+}
